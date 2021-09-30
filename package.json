@@ -1,0 +1,24 @@
+{
+  "name": "bundle-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vankop/bundle-fs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vankop/bundle-fs/issues"
+  },
+  "homepage": "https://github.com/vankop/bundle-fs#readme",
+  "dependencies": {
+    "webpack": "^5.55.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
